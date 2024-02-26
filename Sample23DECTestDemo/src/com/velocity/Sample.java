@@ -11,6 +11,7 @@ public class Sample {
 		al.add(20);
 		al.add(40);
 		al.add(70);
+		System.out.println("ArrayList is>>");
 		System.out.println(al);
 	}
 }
